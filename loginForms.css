@@ -1,0 +1,40 @@
+
+
+.text-primary {
+  margin-left: 700px;
+}
+.login-form{
+  width: 300px;
+  margin: 0 auto;
+}
+.logo img{
+width: 100px;
+height: 70px;
+margin-left: 700px;
+}
+.form-group{
+  text-align: left;
+  padding-top: 2px;
+  padding-bottom: 5px;
+  width: 538px;
+  margin-left: 500px;
+ 
+}
+
+.form-control {
+  background-color: bisque;
+}
+
+/* .btn-login{
+  margin: 0;
+  border: 0;
+  border-radius: 20px;
+  margin-bottom: 50px;
+ 
+} */
+.a{
+  text-align: center;
+  margin-left: 500px;
+  padding-top: 20px;
+  border-radius: 100px;
+}
